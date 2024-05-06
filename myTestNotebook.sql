@@ -1,3 +1,5 @@
 -- Databricks notebook source
 -- MAGIC %md
 -- MAGIC ### This is my first notebook
+-- MAGIC
+-- MAGIC ### This is second statement in notebook
